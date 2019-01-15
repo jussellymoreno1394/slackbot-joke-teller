@@ -1,0 +1,15 @@
+{
+  "name": "slack-bot-joker",
+  "version": "1.0.0",
+  "description": "A Slack joker teller. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jusselly Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}

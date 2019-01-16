@@ -19,7 +19,7 @@ npm install
 ## App Info
 
 ### Author
-Jusselly Moreno
+Jusselly S Moreno C
 
 ### Version
 

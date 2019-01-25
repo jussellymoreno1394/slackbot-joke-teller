@@ -11,10 +11,8 @@
 
 ## Quick Start
 
-``` bash
 # Install dependencies
 npm install
-```
 
 ## App Info
 

@@ -2,16 +2,15 @@
 **@JokerBot** will tell you funny jokes to brighten up your day.
 
 ## APIs Used:
-[http://www.icndb.com/api/](http://www.icndb.com/api/)
+[Chuck Norris jokes](http://www.icndb.com/api/)
 
-[http://yomomma.info/](http://yomomma.info/)
+[Yomomma jokes](http://yomomma.info/)
 
-## Slackbots (slack-bot-api)
-[https://github.com/mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api)
+[Slack Bot API](https://github.com/mishk0/slack-bot-api)
 
 ## Quick Start
 
-# Install dependencies
+### Install dependencies
 npm install
 
 ## App Info

@@ -11,7 +11,7 @@
 ## Quick Start
 
 ### Install dependencies
-npm install
+[npm install](https://www.npmjs.com/get-npm)
 
 ## App Info
 

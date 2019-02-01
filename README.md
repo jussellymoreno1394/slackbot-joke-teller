@@ -16,7 +16,8 @@
 ## App Info
 
 ### Author
-Jusselly S Moreno C
+
+```Jusselly S Moreno C```
 
 ### Version
 

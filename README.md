@@ -1,4 +1,4 @@
-# SlackBotJokeTeller
+# Slack Bot Joke Teller
 **@JokerBot** will tell you funny jokes to brighten up your day.
 
 ## APIs Used:
